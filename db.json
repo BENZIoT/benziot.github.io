@@ -1,0 +1,34 @@
+{
+  "lists": [
+    {
+      "measurement": "Water Quality",
+      "tags": {
+        "location": "SNI999",
+        "deviceName": "SF999"
+      },
+      "fields": {
+        "waterTemp": 29,
+        "DOvalue": 29,
+        "Salinity": 22,
+        "ECvalue": 22,
+        "PHvalue": 23
+      },
+      "time": "2024-04-08T21:42:27Z"
+    },
+    {
+      "measurement": "Water Quality",
+      "tags": {
+        "location": "SNI999",
+        "deviceName": "SF999"
+      },
+      "fields": {
+        "waterTemp": 18,
+        "DOvalue": 27,
+        "Salinity": 9,
+        "ECvalue": 8,
+        "PHvalue": 28
+      },
+      "time": "2024-04-08T21:42:28Z"
+    }
+  ]
+}
